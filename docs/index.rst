@@ -1,7 +1,7 @@
 .. _onedrive_signup:
 
 ===========================
-How to Sign Up iDrive Account?
+How to Sign Up OneDrive Account?
 ===========================
 
 
